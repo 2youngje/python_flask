@@ -1,4 +1,6 @@
+<div align=center>
 # python_flask
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=youngje_github&fontSize=90" />
 <div align=center>
 	<h2>🌱 flask practice 🌱</h2>
