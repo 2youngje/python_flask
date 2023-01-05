@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&weight=800&section=header&text=youngje_github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=youngje_github&fontSize=90" />
 <div align=center>
 	<h2>🌱 flask practice 🌱</h2>
 	<h3>📚 Tech Stack 📚</h3>
